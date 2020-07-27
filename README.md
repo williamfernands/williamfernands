@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
-<a href="LICENSE" align="center">
+<a align="center">
+<a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 
