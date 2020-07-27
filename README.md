@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # WILLIAM FERNANDES :man_technologist:
-
+<h1 align="center">
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
+</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
 
 ### Hellooo! 👋 Welcome to my profile
-My name is William and ...:
+
