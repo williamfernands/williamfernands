@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
-## :rocket: Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
-## Faço faculdade de computação e estou no segundo periodo.
-## estou estudando o basico flutter e a agora javascript.
-## Estou aprendo a construir projetos mobile em flutter
-## Estou aprendo introdução a programação web.
-## iniciando no front-end.
-## iniciando no back-end.
+# :rocket: Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
+# Faço faculdade de computação e estou no segundo periodo.
+# estou estudando o basico flutter e a agora javascript.
+# Estou aprendo a construir projetos mobile em flutter
+# Estou aprendo introdução a programação web.
+# iniciando no front-end.
+# iniciando no back-end.
