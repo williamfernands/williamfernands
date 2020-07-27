@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
+<a href="LICENSE" align="center">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+
 <blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
