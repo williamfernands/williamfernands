@@ -40,6 +40,6 @@ Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, G
 Faço faculdade de computação e estou no segundo periodo.
 Estou estudando o basico flutter e a agora javascript.
 Estou aprendo a construir projetos mobile em flutter.
-Estou aprendo introdução a programação web.
+No JavaScript estou aprendo introdução a programação web.
 Iniciando no front-end.
 Iniciando no back-end.
