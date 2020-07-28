@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
 
-### Hellooo! 👋 Welcome to my profile
+### Hellooo! 👋 Welcome to my profile # :rocket: 
 
-# :rocket: Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
+Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
 Faço faculdade de computação e estou no segundo periodo.
-estou estudando o basico flutter e a agora javascript.
+Estou estudando o basico flutter e a agora javascript.
 Estou aprendo a construir projetos mobile em flutter
 Estou aprendo introdução a programação web.
 iniciando no front-end.
