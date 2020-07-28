@@ -43,3 +43,6 @@ Estou aprendo a construir projetos mobile em flutter.
 No JavaScript estou aprendo introdução a programação web.
 Iniciando no front-end.
 Iniciando no back-end.
+
+*Em breve estará disponível aqui meus projetos para compartilhar meus conhecimentos.
+Agradeço a compreensão de todos! 
