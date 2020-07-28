@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-<a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab"(https://www.linkedin.com/in/williamfernandes97861a1ab/)</a>
+<a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/https://www.linkedin.com/in/williamfernandes97861a1ab"
+</a>
 
 <p align="center">
 <a href="LICENSE" >
