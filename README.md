@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/williamfernandes97861a1ab/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/williamfernandes97861a1ab/">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a>
 
-<p align="center">
+
 <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
