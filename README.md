@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
+<a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
+</a>
 <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
