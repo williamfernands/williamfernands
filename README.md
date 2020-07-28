@@ -20,8 +20,9 @@ Here are some ideas to get you started:
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="200px" />
 </h1>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-align=center-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
+<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
+</p>
 <p align="center">
 <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
