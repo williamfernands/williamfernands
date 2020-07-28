@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/williamfernandes97861a1ab/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+    <img src="https://i.stack.imgur.com/gVE0j.png" >
   </a>
 
 
