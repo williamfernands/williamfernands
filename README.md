@@ -31,9 +31,12 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamfernandes97861a1ab/)](https://www.linkedin.com/in/williamfernandes97861a1ab/)
 
 ### Hellooo! 👋 Welcome to my profile # :rocket: 
+
 <h1 align="center">
-    https://lh3.googleusercontent.com/proxy/aUc71rYvKwPHHEeMMKXU-oCZy48XNXxSvg7rupeJz-f2nYxV2SJuU67EvFV8q2ymp1jeC3UtuDLKITsoM623sKoFxx86jTOOAAR2qSmXiMMYJ7l7ytYJ4M1kCn-lkDP67lW_ZfE5rL6z
+    <img alt="JavaScript" src="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjfnO-z1-7qAhUOHbkGHZZaBIoQjRx6BAgBEAQ&url=http%3A%2F%2Fluizricardo.org%2F2014%2F11%2Fdepuracao-avancada-de-javascript%2F&psig=AOvVaw1YWcBfz9LxIuADnm1ThG8V&ust=1595982269617162">
+    
 </h1>
+
 Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
 Faço faculdade de computação e estou no segundo periodo.
 Estou estudando o basico flutter e a agora javascript.
