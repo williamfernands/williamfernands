@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 ### Hellooo! 👋 Welcome to my profile # :rocket: 
 
 <h1 align="center">
-    <img alt="JavaScript" src="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjfnO-z1-7qAhUOHbkGHZZaBIoQjRx6BAgBEAQ&url=http%3A%2F%2Fluizricardo.org%2F2014%2F11%2Fdepuracao-avancada-de-javascript%2F&psig=AOvVaw1YWcBfz9LxIuADnm1ThG8V&ust=1595982269617162">
-    
+    <img  src="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjfnO-z1-7qAhUOHbkGHZZaBIoQjRx6BAgBEAQ&url=http%3A%2F%2Fluizricardo.org%2F2014%2F11%2Fdepuracao-avancada-de-javascript%2F&psig=AOvVaw1YWcBfz9LxIuADnm1ThG8V&ust=1595982269617162">  
 </h1>
 
 Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
