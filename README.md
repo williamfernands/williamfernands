@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img  src="https://static.webpunks.at/uploads/2019/05/flutter-entwicklung-ios-android.png" width="150px">
 </p>
 Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
-Faço faculdade de computação e estou no segundo periodo. E também sou aluno do bootcam launchbase a rocketseat.
+Faço faculdade de computação e estou no segundo periodo. E também sou aluno do bootcam launchbase da rocketseat.
 Estou estudando o basico flutter e a agora javascript.
 Estou aprendo a construir projetos mobile em flutter.
 No JavaScript estou aprendo introdução a programação web.
