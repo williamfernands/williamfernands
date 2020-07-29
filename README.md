@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Hi there 👋[![Linkedin Badge](
+**williamfernands/williamfernands**
 # WILLIAM FERNANDES :man_technologist:
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="200px" />
