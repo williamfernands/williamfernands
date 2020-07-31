@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# WILLIAM FERNANDES :man_technologist:
+
 <h1 align="center">Hi dear 👋, I'm William Fernandes</h1> :man_technologist:
 
 <p align="center">
