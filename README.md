@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 My name is William Fernandes I am 25 years old, I live in Porto Nacional Tocantins, I love technology and I am a beginner in programming.
 I am studying computing and I am in the second period. And I'm also a student of the rocketseat launchbase bootcam.
-*I am studying the basics of javascript.
-*I am learning in JavaScript introduction to web programming.
-*Starting projects on the front-end & back-end.
+-I am studying the basics of javascript.
+-I am learning in JavaScript introduction to web programming.
+-Starting projects on the front-end & back-end.
 
 
