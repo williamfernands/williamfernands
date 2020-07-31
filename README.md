@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi dear 👋, I'm William Fernandes</h1> :man_technologist:
+<h1 align="center">Hi dear 👋, I'm William Fernandes:man_technologist:</h1> 
 
 <p align="center">
 <a href="LICENSE" >
