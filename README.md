@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # WILLIAM FERNANDES :man_technologist:
-<h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="200px" />
-</h1>
+<h1 align="center">Hi dear 👋, I'm William Fernandes</h1> :man_technologist:
 
 <p align="center">
 <a href="LICENSE" >
