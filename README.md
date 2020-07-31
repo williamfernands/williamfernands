@@ -34,12 +34,10 @@ Here are some ideas to get you started:
 </p>
 ### Hellooo! 👋 Welcome to my profile # :rocket:
 
-Meu nome é William Fernandes tenho 25 anos, Moro em Porto Nacional Tocantins, Gosto muito de tecnologia e Sou iniciante na programação. 
-Faço faculdade de computação e estou no segundo periodo. E também sou aluno do bootcam launchbase da rocketseat.
-Estou estudando o basico flutter e a agora javascript.
-Estou aprendo a construir projetos mobile em flutter.
-No JavaScript estou aprendo introdução a programação web.
-Iniciando no front-end.
-Iniciando no back-end.
+My name is William Fernandes I am 25 years old, I live in Porto Nacional Tocantins, I love technology and I am a beginner in programming.
+I am studying computing and I am in the second period. And I'm also a student of the rocketseat launchbase bootcam.
+I am studying the basics of javascript.
+I am learning in JavaScript introduction to web programming.
+Starting projects on the front-end & back-end.
 
 
