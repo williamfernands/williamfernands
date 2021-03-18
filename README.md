@@ -34,13 +34,7 @@ Here are some ideas to get you started:
 </p>
 ### Hellooo! 👋 Welcome to my profile # :rocket:
 
-My name is William Fernandes I am 25 years old, I live in Porto Nacional Tocantins, I love technology and I am a beginner in programming.
-I am studying computing and I am in the second period. And I'm also a student of the rocketseat launchbase bootcam.
-
--I am studying the basics of javascript.
-
--I am learning in JavaScript introduction to web programming.
-
--Starting projects on the front-end & back-end.
-
+I am a student in Computer Science and a programmer, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
+I like to develop viable solutions to broadly relevant problems. I am a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
+I am currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
 
