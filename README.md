@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 ### Hellooo! 👋 Welcome to my profile # :rocket:
 
-I am a student in Graduation Computing and a Developer, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
-I like to develop viable solutions to broadly relevant problems. I am a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
-I am currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
+I'm a student Computing and Developer, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
+I like to develop viable solutions to broadly relevant problems. I'm a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
+I'm currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
 
