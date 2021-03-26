@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 <blockquote align="center">“Your only limitation is yourself”</blockquote>
 
-
-  
-
 ### Hellooo! 👋 Welcome to my profile # :rocket:
 
 I'm a student Computing and Developer, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
