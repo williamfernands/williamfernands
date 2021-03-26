@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 
 
   
- <p align="center">
-<img  src="https://lh3.googleusercontent.com/proxy/aUc71rYvKwPHHEeMMKXU-oCZy48XNXxSvg7rupeJz-f2nYxV2SJuU67EvFV8q2ymp1jeC3UtuDLKITsoM623sKoFxx86jTOOAAR2qSmXiMMYJ7l7ytYJ4M1kCn-lkDP67lW_ZfE5rL6z" width="60px">
- <img  src="https://4.bp.blogspot.com/-oHMa7P0GxnU/VUe5vTdMBxI/AAAAAAAALTw/LTEB77VmLkA/s1600/html5_css3.png" width="100px">  
-<img  src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg" width="100px">
-</p>
+
 ### Hellooo! 👋 Welcome to my profile # :rocket:
 
 I'm a student Computing and Developer, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
