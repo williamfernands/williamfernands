@@ -33,6 +33,9 @@ I'm a student Computing and Developer, I really like to learn solutions with clo
 I like to develop viable solutions to broadly relevant problems. I'm a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
 I'm currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
 
+![William Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
