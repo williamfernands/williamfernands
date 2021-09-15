@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <blockquote align="center">“Your only limitation is yourself”</blockquote>
 
-### Hellooo! 👋 Welcome to my profile # :rocket:
+### Hellooo! 👋 Nice to meet you. # :rocket:
 ## 🚀 About Me
 I'm a full stack developer...
 
