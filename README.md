@@ -18,14 +18,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi Dev 👋, I'm William Fernandes:man_technologist:</h1> 
 
-<p align="center">
-<a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
 
 <blockquote align="center">“Your only limitation is yourself”</blockquote>
 
-### Hellooo! 👋 Nice to meet you. # :rocket:
+### Hellooo! 👋 Nice to meet you.
 ## 🚀 About Me
 I'm a full stack developer...
 
@@ -33,7 +29,10 @@ I'm a student Computing and Developer, I really like to learn solutions with clo
 I like to develop viable solutions to broadly relevant problems. I'm a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
 I'm currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
 
-![William Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=williamfernands&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfernands&hide_border=blue&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 
 ### Tech & Tools Preference
