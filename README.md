@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Nice to meet you.
 
-I'm a developer and technology enthusiast
+I'm a developer and technology enthusiast and Analysis and Systems Development Student
 
 - 🌱 I’m currently learning React, Java, spring and AWS...
 - 📫 How to reach me: williamdeveloper.94@gmail.com - whatsapp: +55 63 984188464...
