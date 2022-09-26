@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I'm a developer and technology enthusiast and Analysis Systems Development
 
 - 🌱 I’m currently learning React, Java, spring and AWS...
-- 📫 How to reach me: williamdeveloper.94@gmail.com - whatsapp: +55 63 984188464...
+- 📫 How to reach me: williamdeveloper.94@gmail.com - whatsapp: +55 63 984188464
 <div>
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=williamfernands&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfernands&hide_border=blue&layout=compact&langs_count=16&theme=tokyonight"/>
