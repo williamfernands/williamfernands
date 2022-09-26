@@ -23,12 +23,9 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Nice to meet you.
 ## 🚀 About Me
-I'm a full stack developer...
-
-I'm studying system analysis and development, I really like to learn solutions with cloud computing service platforms, as they are innovative and technological tools for IT solutions.
-I like to develop viable solutions to broadly relevant problems. I'm a motivated and engaged person, who maintains a positive and proactive attitude in the face of adversity, someone who seeks knowledge in several areas of technology and development.
-I'm currently looking for opportunities that will allow me to develop and promote technologies and solve various problems.
-
+I'm a Java developer...
+- 🌱 I’m currently learning Java, spring and AWS...
+- 📫 How to reach me: williamdeveloper.94@gmail.com ...
 <div>
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=williamfernands&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfernands&hide_border=blue&layout=compact&langs_count=16&theme=tokyonight"/>
